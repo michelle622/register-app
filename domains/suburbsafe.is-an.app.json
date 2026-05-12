@@ -1,0 +1,13 @@
+{
+  "description": "SuburbSafe - A suburb safety web application hosted on AWS Amplify",
+  "domain": "is-an.app",
+  "subdomain": "suburbsafe",
+  "owner": {
+    "repo": "https://github.com/michelle622/TE-19-suburb-safe",
+    "email": "zzlmichelle109@gmail.com"
+  },
+  "record": {
+    "CNAME": "d3b5nfiqx0l9z7.cloudfront.net"
+  },
+  "proxied": false
+}
