@@ -1,0 +1,13 @@
+{
+  "description": "SSL validation record for suburbsafe.is-an.app (AWS Amplify)",
+  "domain": "is-an.app",
+  "subdomain": "_476b23a639ad518f9d68004b858b48b7.suburbsafe",
+  "owner": {
+    "repo": "https://github.com/michelle622/TE-19-suburb-safe",
+    "email": "zzlmichelle109@gmail.com"
+  },
+  "record": {
+    "CNAME": "_2fcc93e960fb571ae2717b4c28b7844a.jkddzztszm.acm-validations.aws"
+  },
+  "proxied": false
+}
